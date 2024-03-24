@@ -53,10 +53,9 @@ The project is available in two formats: a published report and a deployed Power
 To access the Report, use the following link: [Report URL](https://medium.com/@sm.kwawu/exploring-the-indian-startup-ecosystem-a-data-driven-analysis-of-funding-trends-and-1aa94a7e86e9 )
 
 For the Deployed Dashboard, use the following link: [Power BI Dashboard](https://app.powerbi.com/groups/me/reports/2e9567cf-ba66-4d52-beb2-dd93bc02be45/ReportSection?experience=power-bi)
+![image](https://github.com/Makafui-Kwawu/Indian-Start-up-Funding-Analysis-from-2018-to-2021/assets/160020850/82461963-3c9e-4492-bc9d-60595974fcfc)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-![image](https://photos.google.com/photo/AF1QipPPb49Dp9i9gYEQwPJfEMzjtBASRQAdT0aZpnz2)
 
 ## Author
 
